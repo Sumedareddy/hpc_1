@@ -124,9 +124,7 @@ The program will display the size of the matrices, the block size, and the resul
 
    ![image](https://github.com/Sumedareddy/hpc_1/assets/145221872/607512c0-d6f7-4f36-acc3-d5a1dc849bfb)
 
-
    ![image](https://github.com/Sumedareddy/hpc_1/assets/145221872/6e8d905f-5c6e-4730-a728-e014e11a6fd3)
-
 
    ![image](https://github.com/Sumedareddy/hpc_1/assets/145221872/19c9c129-137c-4ebe-ae41-f03ce7f855a7)
 
@@ -150,13 +148,14 @@ The program will display the size of the matrices, the block size, and the resul
 
    ![image](https://github.com/Sumedareddy/hpc_1/assets/145221872/1a07c006-311b-4d71-97dd-97210db7883d)
 
-   
+   ![image](https://github.com/Sumedareddy/hpc_1/assets/145221872/5c6aba1e-ba9d-4611-af42-be113739884c)
+
+
 3. **Nth Power of Matrix with BMM ( Threads vs Elapsed Time )** :
 
    ![image](https://github.com/Sumedareddy/hpc_1/assets/145221872/60703ee2-39b3-44af-bdc4-81c9e3b8aded)
 
    ![image](https://github.com/Sumedareddy/hpc_1/assets/145221872/a7dcc100-0fa4-425a-9448-7de619f98646)
-
 
 
 ## Memory Management
